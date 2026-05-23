@@ -22,3 +22,4 @@
 | Sensor Gas MQ-2 | Mendeteksi adda Gas |
 | LED Merah | Mendeteksi Bahaya |
 | LED Hijau | Mendeteksi Aman |
+| Buzzer | Untuk membunyikan alarm saat bahaya |
