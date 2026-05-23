@@ -21,3 +21,4 @@
 | Sensor DHT11 | Mendeteksi suhu |
 | Sensor Gas MQ-2 | Mendeteksi adda Gas |
 | LED Merah | mendeteksi Bahaya |
+| LED Hijau | Mendeteksi Aman |
