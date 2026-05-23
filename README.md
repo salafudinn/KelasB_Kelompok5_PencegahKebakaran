@@ -23,3 +23,4 @@
 | LED Merah | Mendeteksi Bahaya |
 | LED Hijau | Mendeteksi Aman |
 | Buzzer | Untuk membunyikan alarm saat bahaya |
+| PCB | Saat prototype nya aman akan di aplikasikan ke PCB |
