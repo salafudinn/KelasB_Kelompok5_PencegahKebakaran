@@ -14,11 +14,10 @@
 | Komponen | Keterangan |
 |----------|------------|
 | Arduino UNO R3 | Mikrokontroler utama |
-| Sensor Suhu TMP36 | Terhubung ke A0 |
 | Motor DC + Transistor TIP120 | Kipas, dikontrol PWM pin 3 |
 | LCD 16x2 I2C | SDA/SCL Arduino |
 | Breadboard + Kabel Jumper | Prototyping |
-| Sensor DHT11 | Mendeteksi suhu |
+| Sensor Api KY-026 | Mendeteksi Api |
 | Sensor Gas MQ-2 | Mendeteksi adda Gas |
 | LED Merah | Mendeteksi Bahaya |
 | LED Hijau | Mendeteksi Aman |
