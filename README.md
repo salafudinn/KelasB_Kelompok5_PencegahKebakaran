@@ -20,5 +20,5 @@
 | Breadboard + Kabel Jumper | Prototyping |
 | Sensor DHT11 | Mendeteksi suhu |
 | Sensor Gas MQ-2 | Mendeteksi adda Gas |
-| LED Merah | mendeteksi Bahaya |
+| LED Merah | Mendeteksi Bahaya |
 | LED Hijau | Mendeteksi Aman |
