@@ -23,3 +23,16 @@
 | LED Hijau | Mendeteksi Aman |
 | Buzzer | Untuk membunyikan alarm saat bahaya |
 | PCB | Saat prototype nya aman akan di aplikasikan ke PCB |
+
+---
+ 
+## 📌 Deskripsi Proyek
+ 
+Sistem ini mendeteksi potensi kebakaran secara dini menggunakan:
+- **Sensor Api KY-026** → sensor deteksi api 
+- **MQ-2** → sensor gas dan asap
+- **Motor DC + TIP120** → kipas yang menyala otomatis
+- **LCD 16x2 I2C** → tampilan status real-time
+- **Buzzer** → alarm suara saat bahaya
+- **LED Merah/Hijau** → indikator visual
+---
