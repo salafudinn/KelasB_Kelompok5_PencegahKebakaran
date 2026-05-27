@@ -9,7 +9,7 @@
 
 ## 🔧 Komponen Hardware
 
- 
+
 | Komponen | Keterangan |
 |----------|------------|
 | ESP-32 | Mikrokontroler utama |
@@ -17,7 +17,7 @@
 | LCD 16x2 I2C | SDA/SCL Arduino |
 | Breadboard + Kabel Jumper | Prototyping |
 | Sensor Api KY-026 | Mendeteksi Api |
-| Sensor Gas MQ-2 | Mendeteksi adda Gas |
+| Sensor Gas MQ-2 | Mendeteksi Gas |
 | LED Merah | Mendeteksi Bahaya |
 | LED Hijau | Mendeteksi Aman |
 | Buzzer | Untuk membunyikan alarm saat bahaya |
