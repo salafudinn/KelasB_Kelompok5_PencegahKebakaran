@@ -13,7 +13,7 @@
  
 | Komponen | Keterangan |
 |----------|------------|
-| Arduino UNO R3 | Mikrokontroler utama |
+| ESP-32 | Mikrokontroler utama |
 | Motor DC + Transistor TIP120 | Kipas, dikontrol PWM pin 3 |
 | LCD 16x2 I2C | SDA/SCL Arduino |
 | Breadboard + Kabel Jumper | Prototyping |
