@@ -8,8 +8,7 @@
 * FIKRI RIZQIN FAIZUN - H1H024068
 
 ## 🔧 Komponen Hardware
- 
-### Komponen yang Sudah Ada
+
  
 | Komponen | Keterangan |
 |----------|------------|
