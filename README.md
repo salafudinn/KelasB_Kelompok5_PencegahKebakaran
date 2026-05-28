@@ -16,9 +16,9 @@
 | Motor DC + Transistor TIP120 | Kipas, dikontrol PWM pin 3 |
 | LCD 16x2 I2C | SDA/SCL Arduino |
 | Breadboard + Kabel Jumper | Prototyping |
-| Sensor Api KY-026 | Mendeteksi Api |
-| Sensor Gas MQ-2 | Mendeteksi Gas |
-| LED Merah | Mendeteksi Bahaya |
+| Sensor Api KY-026 | Mendeteksi tanda ada Api |
+| Sensor Gas MQ-2 | Mendeteksi tanda ada Gas |
+| LED Merah | Mendeteksi tanda ada Bahaya |
 | LED Hijau | Mendeteksi Aman |
 | Buzzer | Untuk membunyikan alarm saat bahaya |
 | PCB | Saat prototype nya aman akan di aplikasikan ke PCB |
