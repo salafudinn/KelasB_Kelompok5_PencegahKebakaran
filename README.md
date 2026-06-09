@@ -34,5 +34,5 @@ Sistem ini mendeteksi potensi kebakaran secara dini menggunakan:
 - **LCD 16x2 I2C** → menampilkan informasi status sistem secara real-time
 - **Buzzer** → memberikan peringatan suara ketika terdeteksi kondisi bahaya
 - **LED Merah** → indikator kondisi bahaya
-- **LED Hijau** → indikator kondisi aman
+- **LED Hijau** → menandakan kondisi aman
 ---
